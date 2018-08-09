@@ -1,5 +1,5 @@
 Total Months: 86
- Total Net Amount: $ 38382578.0 
+ Total Net Amount: $ 38,382,578.0 
  Average Change: $ -2315.12 
- Greatest Increase in Profits: ('Feb-12', 1926159.0) 
- Greatest Decrease in Losses: ('Sep-13', -2196167.0)
+ Greatest Increase in Profits: ('Feb-12', '1,926,159.0') 
+ Greatest Decrease in Losses: ('Sep-13', '-2,196,167.0')
